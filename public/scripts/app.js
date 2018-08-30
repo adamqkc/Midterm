@@ -13,11 +13,11 @@ $(function() {
     return output;
   }
 
+  //creates a unique event listener for every new div that gets made.
+  //event listener deletes a specific li that was made earlier.
   function createDeleteDiv (id, target) {
     var divOutput = $('<div>')
 
-      //creates a unique event listener for every new div that gets made.
-      //event listener deletes a specific li that was made earlier.
       divOutput.on('click', function(event) {
         event.preventDefault();
 
@@ -122,6 +122,7 @@ $(function() {
     return output;
   }
 
+  // Matches and assigns the correct todoList category
   function addToList(todoList, todoContent, todoId) {
     var listElement = createListElement(todoContent, todoId);
 

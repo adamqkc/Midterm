@@ -65,7 +65,8 @@ body .card-container #card div li.list-group-item p {
 }
 body .card-container #card div li.list-group-item button#dropdownMenuButton {
   margin: 0 1px;
-  height: 31px;
+  height: 30px;
+  width: 30px;
 }
 body .card-container #card div li.list-group-item button#dropdownMenuButton i {
   padding: 4px 0;
