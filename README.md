@@ -1,6 +1,7 @@
 # Smart Todo List
 
-- This project uses jQuery, Bootstrap,
+- This project uses jQuery, Bootstrap. 
+- Google API Service Account Key required!
 
 ## Getting Started
 
