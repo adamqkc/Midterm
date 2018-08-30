@@ -19,3 +19,16 @@
 
 - Node 5.10.x or above
 - NPM 3.8.x or above
+- @google-cloud/language
+- assert-plus
+- body-parser
+- cookie-parser
+- dotenv
+- ejs
+- express
+- knex
+- knex-logger
+- lodash
+- morgan
+- pg
+- sass
