@@ -32,3 +32,7 @@
 - morgan
 - pg
 - sass
+
+## Screenshots
+
+!["Homepage"](https://github.com/adamqkc/Midterm/blob/master/docs/homepage.png)
