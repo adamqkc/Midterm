@@ -1,5 +1,5 @@
 # Smart Todo List
-Task Tracker saves you time by using natural language analysis to auto-classify your tasks into relevant categories, awesome!
+todo saves you time by using natural language analysis to auto-classify your all your todos into relevant categories, awesome!
 
 ## Screenshots
 
